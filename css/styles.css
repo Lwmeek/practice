@@ -36,7 +36,7 @@ h2 {
 	color: var(--color-main_p);
 	word-spacing: 0.2rem;
 	line-height: 1.6rem;
-	max-width: 40ch;
+	text-align: center;
 }
 .card_container {
 	width: 85vw;
@@ -85,6 +85,7 @@ h2 {
 	}
 	.card_body p {
 		text-align: left;
+		max-width: 40ch;
 	}
 	.card_footer {
 		display: flex;
